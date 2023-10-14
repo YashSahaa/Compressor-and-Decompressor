@@ -16,9 +16,6 @@ Tech Stack
 
 Project snips
 
-![Screenshot 2023-06-18 220358](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/fcd1fa3e-cc96-4be9-ad85-c85159414a37)
-
-![Screenshot 2023-06-18 220446](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/f60197f2-63d4-4e74-bdac-9f209585ca89)
-
-![Screenshot 2023-06-18 220534](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/09c2fa49-db9c-4004-893e-f33e6870315c)
-
+![Screenshot 2023-06-18 220358](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/d914e795-835c-4b76-9e20-7e2bcd082a2b)
+![Screenshot 2023-06-18 220446](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/d2ddd111-1147-433d-9304-3d5280d1efde)
+![Screenshot 2023-06-18 220534](https://github.com/YashSahaa/Compressor-and-Decompressor/assets/136882182/221939d2-2dae-46d9-985c-41bf9d299047)
